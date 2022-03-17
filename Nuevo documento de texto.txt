@@ -1,0 +1,9 @@
+1.	Que diferencia hay entre un igual ( = ) y un doble ( == ) 
+El (=) se utiliza para asignar un valor a una variable y un (==) es para comparar un valor
+2.	Cuales son los tipos de datos básico de java 
+Los tipos de datos básicos en java son, int, double, string, bolean;
+3.	Quién es la empresa que actualmente se encarga de mantener el desarrollo de java
+ORACLE 
+4.	En qué otros campos se puede utilizar java para crear software
+
+Se puede utilizar para aplicaciones moviles, para hacer programas para objetos, se utiliza en el procesador, tambien en un navegador, o actualmente en cualquier dispositivo compatible.
